@@ -1,0 +1,10 @@
+
+CREATE TABLE scores4(
+	row_id int NOT NULL AUTO_INCREMENT PRIMARY KEY,
+	row1   int(1),
+	row2  int(1),
+	row3  int(1),
+	row4  int(1),
+	row5  int(1)
+
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
